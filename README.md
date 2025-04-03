@@ -6,11 +6,11 @@ I'm a Software Developer currently working at Opas Mobile, where I lead the deve
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: JavaScript, TypeScript, Python, HTML, CSS, Java, C, C++
+- **Programming Languages**: JavaScript, TypeScript, RUST, Python, HTML, CSS, Java, C, C++
 - **Libraries & Frameworks**: React, NodeJS, Apollo Client, Apollo Server
 - **Databases**: PostgreSQL, MongoDB, IndexedDB
 - **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code
-- **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL
+- **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL, REST APIs
 - **Testing & Deployment**: Unit Testing, Continuous Integration, Continuous Deployment
 
 ## 🌟 Professional Experience
