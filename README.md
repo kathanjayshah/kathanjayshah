@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a Software Developer currently working at Focus FS, where I lead the development of Progressive Web Applications and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland, earning a cumulative GPA of 3.4/4. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
+I'm a Software Developer currently working at Focus FS, where I lead the development of Progressive Web Applications and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
 
 ## 💻 Technical Skills
 
