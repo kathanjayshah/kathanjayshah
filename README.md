@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a Software Developer currently working at Opas Mobile, where I lead the development of Progressive Web Applications and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland, earning a cumulative GPA of 3.4/4. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
+I'm a Software Developer currently working at Focus FS, where I lead the development of Progressive Web Applications and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland, earning a cumulative GPA of 3.4/4. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
 
 ## 💻 Technical Skills
 
@@ -15,7 +15,7 @@ I'm a Software Developer currently working at Opas Mobile, where I lead the deve
 
 ## 🌟 Professional Experience
 
-- **Current Role**: Software Developer at Opas Mobile  
+- **Current Role**: Software Developer at Focus FS  
   At Focus FS, I Developed and optimized scalable front-end components using Angular, applying object-oriented programming principles to build maintainable and modular codebases. I Collaborated in an Agile environment to deliver high-impact features, enhance UI/UX performance, and ensure code quality through peer reviews and unit testing.
 
 - **Previous Role**: Software Developer at Opas Mobile  
