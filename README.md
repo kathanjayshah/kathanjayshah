@@ -6,7 +6,7 @@ I'm a Software Developer currently working at Opas Mobile, where I lead the deve
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: JavaScript, TypeScript, RUST, Python, HTML, CSS, Java, C, C++
+- **Programming Languages**: JavaScript, TypeScript, RUST, Python, HTML, CSS, Java
 - **Libraries & Frameworks**: React, NodeJS, Apollo Client, Apollo Server
 - **Databases**: PostgreSQL, MongoDB, IndexedDB
 - **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code
@@ -16,6 +16,9 @@ I'm a Software Developer currently working at Opas Mobile, where I lead the deve
 ## 🌟 Professional Experience
 
 - **Current Role**: Software Developer at Opas Mobile  
+  At Focus FS, I Developed and optimized scalable front-end components using Angular, applying object-oriented programming principles to build maintainable and modular codebases. I Collaborated in an Agile environment to deliver high-impact features, enhance UI/UX performance, and ensure code quality through peer reviews and unit testing.
+
+- **Previous Role**: Software Developer at Opas Mobile  
   At Opas Mobile, I spearhead the transformation of safety SaaS applications into Progressive Web Apps (PWA) with offline capabilities, develop GraphQL APIs, and implement CI/CD pipelines to streamline build and deployment processes.
 
 - **Previous Experience**: Software Developer at Celtx  
