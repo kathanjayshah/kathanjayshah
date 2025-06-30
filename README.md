@@ -2,26 +2,26 @@
 
 ## 🎓 About Me
 
-I'm a Software Developer currently working at Focus FS, where I lead the development of Progressive Web Applications and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
+I'm a Full Stack Software Developer currently working at Focus FS, where I develop company's PWA SaaS Application and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: JavaScript, TypeScript, RUST, Python, HTML, CSS, Java
-- **Libraries & Frameworks**: React, NodeJS, Apollo Client, Apollo Server
+- **Programming Languages**: JavaScript, TypeScript, Python, HTML, CSS, Java, Rust
+- **Libraries & Frameworks**: React, NodeJS, Angular, Apollo Client, Apollo Server
 - **Databases**: PostgreSQL, MongoDB, IndexedDB
-- **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code
+- **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code, AWS, Azure DevOps
 - **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL, REST APIs
 - **Testing & Deployment**: Unit Testing, Continuous Integration, Continuous Deployment
 
 ## 🌟 Professional Experience
 
-- **Current Role**: Software Developer at Focus FS  
+- **Current Role**: Intermediate Full Stack Developer at Focus FS  
   At Focus FS, I Developed and optimized scalable front-end components using Angular, applying object-oriented programming principles to build maintainable and modular codebases. I Collaborated in an Agile environment to deliver high-impact features, enhance UI/UX performance, and ensure code quality through peer reviews and unit testing.
 
-- **Previous Role**: Software Developer at Opas Mobile  
+- **Previous Role**: Full Stack Software Developer at Opas Mobile  
   At Opas Mobile, I spearhead the transformation of safety SaaS applications into Progressive Web Apps (PWA) with offline capabilities, develop GraphQL APIs, and implement CI/CD pipelines to streamline build and deployment processes.
 
-- **Previous Experience**: Software Developer at Celtx  
+- **Previous Experience**: Software Developer at Celtx / Backlight  
   At Celtx, I contributed to migrating legacy systems to modern frameworks, optimized code reusability, and implemented key features such as new user authentication and offline functionality.
 
 ## 🔧 Key Strengths
