@@ -8,7 +8,7 @@ I'm a Full Stack Software Developer currently working at Focus FS, where I devel
 
 - **Programming Languages**: JavaScript, TypeScript, Python, HTML, CSS, Java, Rust
 - **Libraries & Frameworks**: React, NodeJS, Angular, Apollo Client, Apollo Server
-- **Databases**: PostgreSQL, MongoDB, IndexedDB
+- **Databases**: PostgreSQL, MySql, IndexedDB
 - **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code, AWS, Azure DevOps
 - **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL, REST APIs
 - **Testing & Deployment**: Unit Testing, Continuous Integration, Continuous Deployment
