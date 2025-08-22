@@ -2,20 +2,24 @@
 
 ## 🎓 About Me
 
-I'm a Full Stack Software Developer currently working at Focus FS, where I develop company's PWA SaaS Application and focus on creating scalable, user-centric solutions. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
+I'm a Full Stack Software Developer currently working at PAL Aerospace, where I contribute to building scalable, maintainable software solutions using Angular, NodeJS, and a Monorepo architecture. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: JavaScript, TypeScript, Python, HTML, CSS, Java, Rust
-- **Libraries & Frameworks**: React, NodeJS, Angular, Apollo Client, Apollo Server
-- **Databases**: PostgreSQL, MySql, IndexedDB
+- **Programming Languages**: TypeScript, JavaScript, Python, HTML, CSS, Rust, Java
+- **Libraries & Frameworks**: Angular, React, NodeJS, Apollo Client, Apollo Server
+- **Databases**: PostgreSQL, MySQL, IndexedDB, Microsoft SQL Server
 - **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code, AWS, Azure DevOps
 - **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL, REST APIs
 - **Testing & Deployment**: Unit Testing, Continuous Integration, Continuous Deployment
+- **Others**: Design Pattern, Sequelize ORM, Monorepo architecture.
 
 ## 🌟 Professional Experience
 
-- **Current Role**: Intermediate Full Stack Developer at Focus FS  
+- **Current Role**: Intermediate Software Developer at PAL Aerospace
+  At PAL Aerospace, I work with Angular and NodeJS in a Monorepo setup, using Microsoft SQL Server and Sequelize ORM for database management. I focus on RESTful API development and apply design patterns to ensure scalable and maintainable codebases.
+
+- **Previous Role**: Intermediate Full Stack Developer at Focus FS  
   At Focus FS, I Developed and optimized scalable front-end components using Angular, applying object-oriented programming principles to build maintainable and modular codebases. I Collaborated in an Agile environment to deliver high-impact features, enhance UI/UX performance, and ensure code quality through peer reviews and unit testing.
 
 - **Previous Role**: Full Stack Software Developer at Opas Mobile  
