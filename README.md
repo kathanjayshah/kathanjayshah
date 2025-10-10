@@ -38,3 +38,6 @@ I'm a Full Stack Software Developer currently working at PAL Aerospace, where I 
 ## 📫 Get in Touch
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kathanjshah/) or check out my projects on [GitHub](https://github.com/kathanjshah).
+
+## Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathanjshah&label=Profile%20views&color=0e75b6&style=flat" alt="kathanjshah" /> </p>
