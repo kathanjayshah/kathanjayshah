@@ -2,21 +2,24 @@
 
 ## 🎓 About Me
 
-I'm a Full Stack Software Developer currently working at PAL Aerospace, where I contribute to building scalable, maintainable software solutions using Angular, NodeJS, and a Monorepo architecture. I graduated with a Bachelor of Science in Computer Science and a minor in Applied Mathematics from Memorial University of Newfoundland. With a strong foundation in both front-end and back-end development, I am passionate about building impactful software that solves real-world problems.
+I'm a Senior Software Developer currently working at GroundControl, where I currently focused on building secure, high-performance systems by integrating ORCA security alerts to detect and respond to threats like SSRF and CSRF, while developing scalable Server Actions–based APIs. Previously, I led key modernization efforts, upgrading the platform to the latest Next.js and React, migrating from Webpack to Turbopack, and improving the overall architecture using Next.js, React, TypeScript, Node.js, Go, and Python to boost performance, scalability, and developer productivity.
 
 ## 💻 Technical Skills
 
-- **Programming Languages**: TypeScript, JavaScript, Python, HTML, CSS, Rust, Java
-- **Libraries & Frameworks**: Angular, React, NodeJS, Apollo Client, Apollo Server
+- **Programming Languages**: TypeScript, JavaScript, Python, HTML, CSS, GO
+- **Libraries & Frameworks**: ReactJS, NodeJS, NextJS
 - **Databases**: PostgreSQL, MySQL, IndexedDB, Microsoft SQL Server
-- **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code, AWS, Azure DevOps
-- **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL, REST APIs
+- **Tools & Platforms**: Git, GitHub, Docker, CI/CD (GitHub Actions), VS Code, AWS, Azure DevOps, Cursor
+- **Web Technologies**: Progressive Web Apps (PWA), Service Workers, GraphQL, REST APIs, Prisma
 - **Testing & Deployment**: Unit Testing, Continuous Integration, Continuous Deployment
 - **Others**: Design Pattern, Sequelize ORM, Monorepo architecture.
 
 ## 🌟 Professional Experience
 
-- **Current Role**: Intermediate Software Developer at PAL Aerospace
+- **Current Role**: Senior Software Developer at GroundControl
+  At GroundControl, I focus on building high-performance, secure, and scalable systems using Next.js, React, TypeScript, Node.js, Go, and Python, modernizing the platform through Turbopack adoption, designing Server Actions–based APIs, and integrating ORCA security intelligence to detect and mitigate threats such as SSRF and CSRF directly within the development and deployment workflow.
+
+- **Previous Role**: Intermediate Software Developer at PAL Aerospace
   At PAL Aerospace, I work with Angular and NodeJS in a Monorepo setup, using Microsoft SQL Server and Sequelize ORM for database management. I focus on RESTful API development and apply design patterns to ensure scalable and maintainable codebases.
 
 - **Previous Role**: Intermediate Full Stack Developer at Focus FS  
@@ -37,7 +40,7 @@ I'm a Full Stack Software Developer currently working at PAL Aerospace, where I 
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kathanjshah/) or check out my projects on [GitHub](https://github.com/kathanjshah).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kathanjayshah/) or check out my projects on [GitHub](https://github.com/kathanjayshah).
 
 ## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathanjshah&label=Profile%20views&color=0e75b6&style=flat" alt="kathanjshah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathanjshah&label=Profile%20views&color=0e75b6&style=flat" alt="kathanjayshah" /> </p>
